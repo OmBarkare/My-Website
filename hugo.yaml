@@ -1,0 +1,36 @@
+baseURL: ""
+languageCode: en-us
+title: DISCO
+theme: PaperMod
+
+params:
+  profileMode:
+    enabled: true
+    title: Om Barkare
+    subtitle: learning to learn | relentless
+    imageUrl: https://storage.ko-fi.com/cdn/useruploads/display/39d7fa2f-9353-4cb1-91f9-7c5c1c2d4f61_0f217d0189f841ae794500966ab1845a.jpg
+    buttons:
+      - name: blog
+        url: /posts
+      - name: tags
+        url: /tags
+  socialIcons:
+    - name: github
+      url: https://github.com/OmBarkare
+    - name: x
+      url: "https://x.com/OmBarkare"
+
+menus:
+  main:
+  - identifier: home
+    name: home
+    pageRef: /
+    weight: 10
+  - identifier: about
+    name: about
+    pageRef: /about
+    weight: 20
+  - identifier: blog
+    name: blog
+    pageRef: /posts
+    weight: 30
