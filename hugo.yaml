@@ -4,6 +4,7 @@ title: DISCO
 theme: PaperMod
 
 params:
+  defaultTheme: light
   profileMode:
     enabled: true
     title: Om Barkare
