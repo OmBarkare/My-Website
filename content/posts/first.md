@@ -1,6 +1,6 @@
 ---
 date: '2025-07-27T16:25:52+05:30'
-draft: false
+draft: true
 title: 'Revolt'
 tags: ["self"]
 ---

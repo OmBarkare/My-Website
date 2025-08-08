@@ -4,11 +4,5 @@ type: "Page"
 
 
 ### Who am I ?
-I am **Om Barkare**. Student at **IIITDM Jabalpur**
-
-
-A human who gets excited about every other thing he comes across.
-I really love learning about new things, specially things related to tech.
-
-### What are my goals ?
-I am not sure. I just like to learn, and I will keep learning until I find goal.
+I am **Om Barkare**, Student at **IIITDM Jabalpur**.
+I like learning about new technologies. Currently I am exploring the web3 space as there are many things here that I find interesting and transmormative, such as ZK-proofs, trustless transactions, consensus mechanisms.. and many more.
